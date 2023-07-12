@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.header-bar {
+    display: flex;
+    background: #ebb5e44f;
+}
+.text-tiscription {
+    margin: 113px;
+}
+
+h1.h1-discription {
+    font-weight: 800;
+    font-size: 46px;
+}
+p.p-discription {
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 500;
+    margin-top: 18px
+}
+
+button.btn-shop {
+    padding: 15px 26px;
+    border: 0;
+    color: #fff;
+    font-weight: 800;
+    background: #fd6e0a;
+    border-radius: 5px;
+    margin-top: 18px;
+}
+
+.container{
+    width: 1140px;
+}
+.flower {
+    width: 112%;
+    margin-top: 30px;
+}
+
+.flower img {
+    width: 498px;
+}
+.Our.Featured.Flower {
+    text-align: center;
+    margin-top: 116px;
+}
+h2.h2-title {
+    font-weight: 700;
+    font-size: 30px;
+}
+.container {
+    width: 1140px;
+    margin: auto;
+}
+p.p-title {
+    line-height: 11px;
+    font-weight: 500;
+    font-size: 13px;
+    margin-top: 16px;
+}
+
+.Our.Featured.image {
+    display: flex;
+    gap: 22px;
+    margin-top: 101px;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.Featured {
+    flex-basis: 32%;
+}
+
+img.Featured-image {
+    background: #6b857963;
+    height: 421px;
+    width: 100%;
+    object-fit: contain;
+}
+.Featured h4{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 13px;
+}
+
+.cartoon-image {
+    display: flex;
+    background: #dddddd47;
+    justify-content: center;
+    align-items: center;
+    gap: 85px;
+    margin-top: 67px;
+   
+}
+.imagess {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.margin {
+    display: flex;
+    margin: 35px;
+    gap: 91px;
+    height: 167px;
+}
+
+.banner {
+    display: flex;
+    background: #ebb5e429;
+    margin-top: 85px;
+}
+
+.slider {
+    margin: 154px;
+    text-align: center;
+    margin-left: 15%;
+}
+ h2.slider-h2 {
+    font-weight: 800;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+p.slider-p {
+   
+}
+
+button.btn-text {
+    padding: 15px 26px;
+    border: 0;
+    color: #fff;
+    font-weight: 800;
+    background: #fd6e0a;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+#slider-image{
+    width: 210px;
+    margin-top: 102px;
+}
+
+.Instagram {
+    text-align: center;
+}
+h1.Instagram {
+    margin-top: 88px;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 27px;
+}
+
+p.Instagram {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.Instagram-slider {
+    display: flex;
+    gap: 16px;
+    margin-top: 47px;
+    justify-content: center;
+}
+
+img#Instagram {
+    width: 253px
+}
+
+.backgorund {
+    text-align: center;
+    height: 396px;
+    margin: 40px;
+    margin-top: 83px;
+    background-image: url('./flower-shop/Rectangle\ 9.png');
+   
+}
+
+.textarea-btn {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+input[type="text"] {
+    border-radius: 6px;
+    padding: 17px 159px;
+    border: 0;
+   
+}
+
+
+.textarea {
+    margin-bottom: 47px;
+    padding-top: 88px;
+}
+
+h3.textarea-h3 {
+    font-weight: 800;
+    font-size: 28px;
+}
+
+p.textarea-p {
+    font-size: 14px;
+    margin-top: 11px;
+}
+
+button.btn {
+    padding: 11px 26px;
+    border: 0;
+    color: #fff;
+    font-weight: 800;
+    background: #fd6e0a;
+    border-radius: 5px;
+    margin-left: -14px
+}
+
+.footer-area {
+    background: black;
+    height: 400px;
+    margin-top: 85px;
+}
+.footer {
+    text-align: center;
+    color: #fff;
+    padding-top: 150px;
+}
+
+h1.footer-h1 {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+p.footer-p {
+    font-size: 12px;
+    
+}
+
+p.footer-mail {
+    font-size: 11px;
+    margin-top: 26px;
+    color: #aab2c5ba;
+}
+span{
+    color: #fd6e0a;
+}
